@@ -1,6 +1,5 @@
 # ClearPlugin
-Unturned Rocket ClearPlugin Plugins
-
+Unturned Rocket Vehicle and İtem cleaning plugin
 Download Link: 
 [Click](https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina)
 

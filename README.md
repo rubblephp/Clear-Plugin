@@ -2,7 +2,7 @@
 Unturned Rocket Vehicle and İtem cleaning plugin.
 
 Download Link: 
-[Click](https://github.com/rubblephp/InfiniteStamina/releases/tag/SRInfiniteStamina)
+[Click](https://github.com/rubblephp/Clear-Plugin/releases/tag/SRClear)
 
 <hr style="border: 0.1px solid #ff0000;">
 
